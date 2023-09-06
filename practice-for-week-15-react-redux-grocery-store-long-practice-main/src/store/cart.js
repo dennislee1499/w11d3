@@ -18,3 +18,7 @@ export const addToCart = (produceID) => ({
 })
 
 export default cartReducer
+
+{ id: 3, count: 1}
+
+newState[1] = "banana"
